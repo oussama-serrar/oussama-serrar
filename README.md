@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
-<br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 <br>
 
@@ -14,7 +12,14 @@
 🔐 Passionate about ethical hacking, networking, Linux, and web development  
 
 ---
+### 🌐 Social Media
+<p align="center">
+  <a href="https://www.instagram.com/hackerapp2024" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
+  </a>
+</p>
 
+---
 ![Profile Views](https://komarev.com/ghpvc/?username=hackerapp2024&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
@@ -59,14 +64,25 @@
 - Grow my cybersecurity community on Instagram  
 
 ---
+### 🛠️ Skills
 
-## 📊 GitHub Stats
-<div align="center">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
-</div>
+**Cybersecurity & Networking**
+🌐 Network fundamentals, routing & switching ,security 
+🔐 Security principles, risk management  
+🚀 Vulnerability analysis & penetration testing  
 
+**Programming**
+💻 Front-end: **HTML, CSS, JavaScript**
+🔐 Back-end: **PHP, Python**
+🚀 Hardware programming: **Arduino**
+
+**Tools**
+👨‍💻 Kali Linux  
+🔐 Nmap  
+💻 Wireshark  
+🔐 Burp Suite  
+🚀 Metasploit  
+🌐 Cisco Packet Tracer  
 ---
 
 ## 📬 Connect With Me
